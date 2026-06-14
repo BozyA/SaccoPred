@@ -1,0 +1,12 @@
+pandas>=1.5
+numpy>=1.23
+scikit-learn>=1.2
+matplotlib>=3.6
+openpyxl>=3.1
+# Web app:
+streamlit>=1.49
+plotly>=5.18
+# Optional but recommended (the tool degrades gracefully if these are missing):
+imbalanced-learn>=0.10
+xgboost>=1.7
+tensorflow>=2.12

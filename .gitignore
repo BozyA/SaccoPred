@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Generated model outputs and datasets
+model_outputs/
+results/
+*.png
+sacco_synthetic_dataset.csv
+final_model_comparison.xlsx
+model_results_comparison.xlsx
+feature_importance_table.xlsx
+top_10_feature_importance.xlsx
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs / temp
+_st_log.txt
+*.log
